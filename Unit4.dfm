@@ -17329,13 +17329,13 @@ object Form4: TForm4
     Font.Name = 'Comic Sans MS'
     Font.Style = []
     Lines.Strings = (
-      'v 0.2.0'
-      ' - Poprawiono bugfix - powtarzaj'#261'cej si'#281' '
-      '    sekwencji, po wybraniu opcji zagraj ponownie.'
-      ''
       'v 0.3.0'
       ' - Dodano dziennik zmian (Changelog). Dost'#281'pny w '
-      '    menu -> pomoc -> changelog.')
+      '    menu -> pomoc -> changelog.'
+      ''
+      'v 0.2.0'
+      ' - Poprawiono bugfix - powtarzaj'#261'cej si'#281' '
+      '    sekwencji, po wybraniu opcji zagraj ponownie.')
     ParentFont = False
     ParentShowHint = False
     ReadOnly = True
